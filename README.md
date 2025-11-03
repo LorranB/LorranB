@@ -87,9 +87,5 @@ I’m constantly seeking ways to turn ideas into interactive, visual, and meanin
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20✨%20by-CROOMA%20Design%20Studio-8A2BE2?style=for-the-badge">
-</p>
-
-<p align="center">
   <i>"Design is how you tell your story without words."</i>
 </p>
