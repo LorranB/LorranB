@@ -8,7 +8,7 @@
 
 ## About Me
 
-Designer graduated from **ESDI/UERJ**, I’m an active, sociable, and good-humored person — always tuned into the latest technological trends, with a deep passion for **games, programming, and illustration**.  
+Designer graduated from **ESDI/UERJ**, I’m an active, sociable, and good-humored person, always tuned into the latest technological trends, with a deep passion for **games, programming, and illustration**.  
 
 My work spans the entire communication design field, from **branding and marketing** to **web design and creative development**. Over the years, I’ve worked with:  
 -  **Marketing for the Financial Market**  
