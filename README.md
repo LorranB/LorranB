@@ -60,7 +60,7 @@ I’m constantly seeking ways to turn ideas into interactive, visual, and meanin
 ## Projects
 
 [**CROOMA Design Studio**](https://www.croomastudio.com)  
-> Official website for my creative studio — a minimalist and expressive digital space focused on visual identity, design, and brand presence.
+> Official website for my creative studio, a minimalist and expressive digital space focused on visual identity, design, and brand presence.
 
 **Personal Finance Control App**  
 > A complete **financial management application** developed with CHAT GPT, combining **design, usability, and AI code**.  
