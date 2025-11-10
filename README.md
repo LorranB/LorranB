@@ -73,7 +73,9 @@ I’m constantly seeking ways to turn ideas into interactive, visual, and meanin
 > - Clean UI focused on accessibility and visual hierarchy  
 >  
 > The project was a test of my design and developer skills, bringing the CHAT GPT with me to develop what came to my mind was a wonderful experience.
-
+>
+> **Black and White Game - Game Design**  
+> I developed a small rogue-like game project entirely on my own, using Unity as the core engine. The game was built in a black-and-white aesthetic, and I created everything myself: character art, animations, visual effects, gameplay systems, and all the programming. It was a personal experiment focused on sharpening my skills in game design, C# development, and building complete gameplay loops from scratch.
 
 ---
 
